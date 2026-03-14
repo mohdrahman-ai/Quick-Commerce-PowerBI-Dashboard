@@ -79,9 +79,9 @@ Business Intelligence
 ![Order Trend](orderanalysis.png)
 
 
- Conclusion
+ Conclusion:
 This project demonstrates how Power BI dashboards can transform raw quick commerce data into actionable business insights, enabling organizations to improve operational efficiency and customer satisfaction.
 
-Developed By
-Mohammed Abdul Rahman
+Developed By:
+Mohammed Abdul Rahman,
 Microsoft Elevate AICTE Internship Project
