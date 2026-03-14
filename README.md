@@ -1,22 +1,4 @@
- Quick Commerce Sales and Delivery Analysis Dashboard
 
-This project analyzes quick commerce data using Power BI.
-
- Dashboards Included
-- Overview Dashboard
-- Sales Analysis
-- Payment Insights
-- Delivery Performance
-- Order Trend Analysis
-
- Tools Used
-- Microsoft Power BI
-- Excel
-
- Key Insights
-- UPI is the most used payment method.
-- Mumbai has the highest number of orders.
-- Grocery category generates the highest revenue.
 
 # 📊 Quick Commerce: Sales & Delivery Intelligence Dashboard
 
@@ -45,7 +27,6 @@ Developed for the **Microsoft Elevate AICTE Internship Program (Feb 2026 Batch)*
 Quick Commerce: Sales & Delivery Intelligence Dashboard
 Empowering Data-Driven Quick Commerce Decisions
 Developed for the Microsoft Elevate AICTE Internship Program (Feb 2026 Batch)
-� � � �
 
 
 
@@ -69,13 +50,33 @@ Evaluates delivery efficiency across different cities.
 5️⃣ Order Trend Dashboard
 Tracks order and revenue trends over time.
 
+Key Insights
+- UPI is the most used payment method.
+- Mumbai has the highest number of orders.
+- Grocery category generates the highest revenue.
+
  Tools & Technologies
 Microsoft Power BI
 Microsoft Excel
 Data Visualization
 Business Intelligence
 
- Dashboard Preview
+## 📷 Dashboard Preview
+
+### Overview Dashboard
+![Overview Dashboard](overviewdashboard.png)
+
+### Sales Analysis Dashboard
+![Sales Analysis](SalesAnalysis.png)
+
+### Payment Insights Dashboard
+![Payment Insights](paymentinsights.png)
+
+### Delivery Performance Dashboard
+![Delivery Dashboard](deliverydashboard.png)
+
+### Order Trend Dashboard
+![Order Trend](orderanalysis.png)
 
 
  Conclusion
