@@ -85,3 +85,6 @@ This project demonstrates how Power BI dashboards can transform raw quick commer
 Developed By:
 Mohammed Abdul Rahman,
 Microsoft Elevate AICTE Internship Project
+
+LinkedIn profile-https://www.linkedin.com/in/mohammed-abdul-rahman-9739223a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
